@@ -8,6 +8,7 @@ colorama==0.4.4
 decorator==5.1.1
 Django==4.0.5
 executing==0.8.3
+Flask==2.1.2
 ipython==8.4.0
 itsdangerous==2.1.2
 jedi==0.18.1
